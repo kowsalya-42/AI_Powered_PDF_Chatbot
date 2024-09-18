@@ -61,14 +61,13 @@ gradio
 ## 📸 Screenshots
 
 ### 🌟 Intuitive Chat Interface
+![Screenshot 2024-09-18 213440](https://github.com/user-attachments/assets/b497b3ed-401b-475b-a2b5-54d66f95b146)
 
-![Screenshot 2024-09-18 214327](https://github.com/user-attachments/assets/a9a5008b-6067-4884-8b08-0bc33699b844)
 
 
 ### 💬 Conversational PDF Responses
-![Screenshot 2024-09-18 214303](https://github.com/user-attachments/assets/02f8da2a-c464-4bcd-a105-53658bd55b58)
-![Screenshot 2024-09-18 214327](https://github.com/user-attachments/assets/b851f841-6d7b-40a1-8ae9-a05a8950ea20)
-![Screenshot 2024-09-18 214341](https://github.com/user-attachments/assets/c4509b1d-b87a-4ed7-a441-ce326727d2fb)
+![Screenshot 2024-09-18 214341](https://github.com/user-attachments/assets/af5a1afd-ac00-44e5-af7f-4442fa4f5dde)
+
 
 ## 🔗 Links
 
