@@ -1,6 +1,6 @@
 # PDFs-Meet-A
 
-# "Chat_With_PDF_using_Zephyr_7B_Alpha_LangChain_Google_Colab_ChromaDB_and_Gradio"
+# Chat_With_PDF_using_Zephyr_7B_Alpha_LangChain_Google_Colab_ChromaDB_and_Gradio
 
 ---
 
