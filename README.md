@@ -66,7 +66,9 @@ gradio
 
 
 ### 💬 Conversational PDF Responses
-![Screenshot 2024-09-18 214341](https://github.com/user-attachments/assets/af5a1afd-ac00-44e5-af7f-4442fa4f5dde)
+![image](https://github.com/user-attachments/assets/06072038-cee0-433d-8a3f-8efdcf59d33d)
+
+![Screenshot 2024-09-18 214327](https://github.com/user-attachments/assets/b16cee47-4ec2-4847-90ff-422e4cb26575)
 
 
 ## 🔗 Links
