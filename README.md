@@ -34,13 +34,10 @@ gradio
 ## 🚀 How to Run
 
 **1. Clone the Repository**
-```
-git clone https://github.com/yourusername/chat-with-pdf-zephyr.git
-cd chat-with-pdf-zephyr
-```
+
 
 **2. Open the Colab Notebook**
-- Navigate to the `Chat_With_PDF.ipynb` file and open it in Google Colab.
+- Navigate to the `.ipynb` file and open it in Google Colab.
 
 **3. Install Dependencies**
 - Run the provided installation cells in the notebook to install all necessary libraries:
