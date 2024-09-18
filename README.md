@@ -72,7 +72,7 @@ gradio
 ## 🔗 Links
 
 - Documentation: [LangChain Documentation](https://docs.langchain.com/)
-- Zephyr 7B Alpha Model: [Zephyr 7B Alpha Details](https://example.com/zephyr-7b-alpha)
+
 
 ## 🤝 Contributing
 
@@ -81,11 +81,3 @@ Feel free to fork the repository and contribute by submitting pull requests. For
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-## 📧 Contact
-
-For questions, support, or collaboration, reach out at [your.email@example.com].
-
----
-
-Feel free to replace placeholder links, images, and contact details with your actual information!
