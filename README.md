@@ -1,4 +1,4 @@
-# PDFs-Meet-A
+# PDF-Meet-AI
 
 ---
 
